@@ -1,3 +1,29 @@
+# Lost Letter's
+
+*Willkommen auf Lost Letter's einer Sammlung von Leserbriefen, die in der SHN nicht gedruckt wurden.*
+
+---
+[Januar](#januar), [Februar](#februar)
+---
+
+## Januar
+
+### Eingesendet am *xx.01.2022* 
+von **Hans Muster**, Musterlingen bis heute nicht gedruckt.
+
+   Fliesstext
+
+## Februar
+
+
+### Eingesendet am *xx.01.2022* 
+von **Hans Muster**, Musterlingen bis heute nicht gedruckt.
+
+   Fliesstext
+
+---
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/l-letters/l-letters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
