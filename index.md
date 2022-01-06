@@ -1,3 +1,5 @@
+<script defer data-domain="l-letters.github.io/l-letters" src="https://plausible.io/js/plausible.js"></script>
+
 # Lost Letter's
 
 *Willkommen auf Lost Letter's einer Sammlung von Leserbriefen, die in der SHN nicht gedruckt wurden.*
